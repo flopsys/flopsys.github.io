@@ -1,8 +1,7 @@
 # SuToFloppy
 ### FlopSys page redirect bridge
 
-| [Inicio](https://flopsys.github.io/) | [lnk.bio](https://lnk.bio/sutofloppy) | [Discord](https://discord.link/sutofloppyies) | [Patreon](https://patreon.com/sutofloppy) |
-|--|--|--|--|
+| [Inicio](https://flopsys.github.io/) // [lnk.bio](https://lnk.bio/sutofloppy) // [Discord](https://discord.link/sutofloppyies) // [Patreon](https://patreon.com/sutofloppy) |
 
 ## Bio
 **Soy José Manuel Suárez Tocino.** Un YouTuber mamadísmo que sube cosas random.
